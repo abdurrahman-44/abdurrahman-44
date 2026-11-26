@@ -2,9 +2,9 @@
 
 <img src="assets/developer-lab.svg" width="100%" alt="Abdurrahman Zarook — The AI Developer's Lab" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-252344?style=for-the-badge&logo=vercel&logoColor=c7d2fe)](https://abdurrahman-brown.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-252344?style=for-the-badge&logo=linkedin&logoColor=c7d2fe)](https://www.linkedin.com/in/abdurrahman-zarook-11525b3a2)
-[![Email](https://img.shields.io/badge/Email-252344?style=for-the-badge&logo=gmail&logoColor=c7d2fe)](mailto:abdurrahmanzarook4455@gmail.com)
+[<img src="assets/portfolio.svg" width="30%" alt="Portfolio" />](https://abdurrahman-brown.vercel.app/)
+[<img src="assets/linkedin.svg" width="30%" alt="LinkedIn" />](https://www.linkedin.com/in/abdurrahman-zarook-11525b3a2)
+[<img src="assets/email.svg" width="30%" alt="Email" />](mailto:abdurrahmanzarook4455@gmail.com)
 
 ![Views](https://komarev.com/ghpvc/?username=abdurrahman-44&label=Lab%20visits&color=6366f1&style=flat-square)
 ![Followers](https://img.shields.io/github/followers/abdurrahman-44?style=flat-square&color=6366f1)
@@ -15,6 +15,10 @@
 <img src="assets/divider.svg" width="100%" alt="" />
 
 ## 01 / Welcome to my lab
+
+<img src="assets/identity.svg" width="100%" alt="Developer identity" />
+
+<img src="assets/terminal.svg" width="100%" alt="Animated developer terminal" />
 
 I'm an AI undergraduate at **NSBM Green University**, Sri Lanka, with a background in software engineering. I enjoy exploring how intelligent systems and full-stack development can solve real-world problems.
 
@@ -27,6 +31,8 @@ I'm an AI undergraduate at **NSBM Green University**, Sri Lanka, with a backgrou
 <img src="assets/divider.svg" width="100%" alt="" />
 
 ## 02 / Developer inventory
+
+<img src="assets/inventory.svg" width="100%" alt="Gaming-style technology inventory" />
 
 | Area | Toolkit |
 | :--- | :--- |
@@ -63,28 +69,19 @@ I'm an AI undergraduate at **NSBM Green University**, Sri Lanka, with a backgrou
   <img width="100%" alt="Animated contribution snake" src="https://raw.githubusercontent.com/abdurrahman-44/abdurrahman-44/output/github-contribution-grid-snake.svg" />
 </picture>
 
-### Pac-Man
+<img src="assets/divider.svg" width="100%" alt="" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdurrahman-44/abdurrahman-44/pacman-output/pacman-contribution-graph-dark.svg" />
-  <img width="100%" alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/abdurrahman-44/abdurrahman-44/pacman-output/pacman-contribution-graph.svg" />
-</picture>
+## 05 / Neural universe
 
-### 3D contribution city
-
-<img width="100%" alt="3D contribution city" src="https://raw.githubusercontent.com/abdurrahman-44/abdurrahman-44/city-output/profile-3d-contrib/profile-night-rainbow.svg" />
+<img src="assets/neural.svg" width="100%" alt="Animated neural network" />
+<img src="assets/orbits.svg" width="100%" alt="Orbiting technologies" />
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## 05 / Deep telemetry
+## 06 / Journey and achievements
 
-<img width="100%" alt="Developer metrics" src="https://raw.githubusercontent.com/abdurrahman-44/abdurrahman-44/metrics-output/metrics.svg" />
-
-<img src="assets/divider.svg" width="100%" alt="" />
-
-## 06 / Lab radio
-
-[<img width="100%" alt="Spotify playback snapshot" src="https://raw.githubusercontent.com/abdurrahman-44/abdurrahman-44/music-output/spotify.svg" />](https://open.spotify.com/)
+<img src="assets/achievements.svg" width="100%" alt="Education, development, teaching and leadership" />
+<img src="assets/city.svg" width="100%" alt="Decorative animated cyberpunk skyline" />
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
@@ -97,3 +94,5 @@ Explore my [portfolio](https://abdurrahman-brown.vercel.app/) or browse my [repo
 <img src="assets/footer.svg" width="100%" alt="Session complete — curiosity never offline" />
 
 </div>
+
+<!-- Easter egg: 42. Keep building. -->
